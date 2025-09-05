@@ -12,6 +12,11 @@
    ```bash
    npm install
    ```
+## Start the App
+
+```bash
+npm run dev
+```
 
 ## Testing
 
