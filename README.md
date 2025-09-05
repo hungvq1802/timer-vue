@@ -1,10 +1,28 @@
-Required Node.js version: ^20.19.0
+## Requirements
 
-Install Dependencies: Ensure you have Node.js installed, then run:
-npm install
+* Node.js version: ^20.19.0
 
-Run the Development Server: Start the local development server:
+## Installation
+
+1. Ensure you have Node.js installed.
+2. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+## Development
+
+Start the local development server:
+
+```bash
 npm run dev
+```
 
-Unit test:
+## Testing
+
+Run unit tests:
+
+```bash
 npm run test
+```
