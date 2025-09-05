@@ -1,3 +1,5 @@
+## A Simple Timer App Using Vue.js
+
 ## Requirements
 
 * Node.js version: ^20.19.0
@@ -11,18 +13,9 @@
    npm install
    ```
 
-## Development
-
-Start the local development server:
-
-```bash
-npm run dev
-```
-
 ## Testing
-
-Run unit tests:
 
 ```bash
 npm run test
 ```
+
